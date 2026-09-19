@@ -1,0 +1,14 @@
+@import 'tailwindcss';
+@import 'uniwind';
+
+@theme {
+  --font-lato: "Lato-Regular";
+  --font-lato-light: "Lato-Light";
+  --font-lato-bold: "Lato-Bold";
+  --font-lato-black: "Lato-Black";
+
+  --font-lato-italic: "Lato-Italic";
+  --font-lato-light-italic: "Lato-LightItalic";
+  --font-lato-bold-italic: "Lato-BoldItalic";
+  --font-lato-black-italic: "Lato-BlackItalic";
+}
